@@ -72,7 +72,7 @@ class _SettingsPageState extends State<SettingsPage> {
             ),
             ElevatedButton(
                 onPressed: () {
-                  Navigator.pop(context); // Kembal
+                  Navigator.pop(context); // Kembali
                 },
                 style: ButtonStyle(
                     backgroundColor:
