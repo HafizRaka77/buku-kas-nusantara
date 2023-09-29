@@ -1,6 +1,6 @@
-import 'package:mycashbook/constant/finance_type_constants.dart';
-import 'package:mycashbook/helper/dbhelper.dart';
-import 'package:mycashbook/models/finance.dart';
+import 'package:bkn_nusantara/constant/finance_type_constants.dart';
+import 'package:bkn_nusantara/helper/dbhelper.dart';
+import 'package:bkn_nusantara/models/finance.dart';
 import 'package:flutter/material.dart';
 
 class DetailCashFlowPage extends StatefulWidget {

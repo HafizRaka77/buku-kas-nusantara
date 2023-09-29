@@ -1,8 +1,8 @@
-import 'package:mycashbook/helper/dbhelper.dart';
-import 'package:mycashbook/models/user.dart';
+import 'package:bkn_nusantara/helper/dbhelper.dart';
+import 'package:bkn_nusantara/models/user.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:mycashbook/providers/user_provider.dart';
+import 'package:bkn_nusantara/providers/user_provider.dart';
 
 class SettingsPage extends StatefulWidget {
   @override
@@ -86,7 +86,7 @@ class _SettingsPageState extends State<SettingsPage> {
               children: [
                 const CircleAvatar(
                   backgroundImage: AssetImage(
-                      'assets/images/profile.jpg'), // Gantilah dengan path gambar Anda
+                      'assets/images/profile.jpg'),
                   radius: 50,
                 ),
                 Container(

@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
-import 'package:mycashbook/models/user.dart'; // Import your User model
-import 'package:mycashbook/helper/dbhelper.dart'; // Import your DbHelper class
+import 'package:bkn_nusantara/models/user.dart'; // Import your User model
+import 'package:bkn_nusantara/helper/dbhelper.dart'; // Import your DbHelper class
 
 class UserProvider extends ChangeNotifier {
   User? _user;

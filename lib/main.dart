@@ -1,11 +1,11 @@
-import 'package:mycashbook/constant/route_constants.dart';
-import 'package:mycashbook/pages/AddExpenditurePage.dart';
-import 'package:mycashbook/pages/AddIncomePage.dart';
-import 'package:mycashbook/pages/DetailCashFlowPage.dart';
-import 'package:mycashbook/pages/HomePage.dart';
-import 'package:mycashbook/pages/LoginPage.dart';
-import 'package:mycashbook/pages/SettingsPage.dart';
-import 'package:mycashbook/providers/user_provider.dart';
+import 'package:bkn_nusantara/constant/route_constants.dart';
+import 'package:bkn_nusantara/pages/AddExpenditurePage.dart';
+import 'package:bkn_nusantara/pages/AddIncomePage.dart';
+import 'package:bkn_nusantara/pages/DetailCashFlowPage.dart';
+import 'package:bkn_nusantara/pages/HomePage.dart';
+import 'package:bkn_nusantara/pages/LoginPage.dart';
+import 'package:bkn_nusantara/pages/SettingsPage.dart';
+import 'package:bkn_nusantara/providers/user_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

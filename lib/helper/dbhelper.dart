@@ -2,9 +2,9 @@ import 'package:sqflite/sqflite.dart';
 import 'dart:async';
 import 'dart:io';
 import 'package:path_provider/path_provider.dart';
-import 'package:mycashbook/models/user.dart';
-import 'package:mycashbook/models/finance.dart';
-import 'package:mycashbook/constant/finance_type_constants.dart';
+import 'package:bkn_nusantara/models/user.dart';
+import 'package:bkn_nusantara/models/finance.dart';
+import 'package:bkn_nusantara/constant/finance_type_constants.dart';
 
 class DbHelper {
   static DbHelper? _dbHelper;
