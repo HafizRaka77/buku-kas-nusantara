@@ -89,7 +89,7 @@ class _HomePageState extends State<HomePage> {
                           Navigator.pushNamed(context, addIncomeRoute);
                         }),
                     NavButton(
-                        imagePath: 'assets/images/outcome.png',
+                        imagePath: 'assets/images/expense.png',
                         label: "Tambah Pengeluaran",
                         onTap: () {
                           Navigator.pushNamed(context, addExpenseRoute);

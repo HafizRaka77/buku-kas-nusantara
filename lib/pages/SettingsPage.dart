@@ -86,7 +86,7 @@ class _SettingsPageState extends State<SettingsPage> {
               children: [
                 const CircleAvatar(
                   backgroundImage: AssetImage(
-                      'assets/images/profile.jpg'),
+                      'assets/images/profile.png'),
                   radius: 50,
                 ),
                 Container(
