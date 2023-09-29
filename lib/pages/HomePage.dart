@@ -70,6 +70,10 @@ class _HomePageState extends State<HomePage> {
               )
             ),
             SizedBox(
+              height: 30,
+            ),
+            Image.asset('assets/images/grafik.jpg', height: 250, width: 450),
+            SizedBox(
               height: 50,
             ),
             Column(
